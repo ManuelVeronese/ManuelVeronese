@@ -34,22 +34,6 @@ Tengo un fuerte enfoque en el **análisis y diseño de sistemas**, utilizando me
 
 ---
 
-### 🚀 En lo que estoy trabajando actualmente
-
-*   👨‍💻 Desarrollando sistemas de gestión integrales y landings profesionales para clientes reales.
-*   📐 Aplicando patrones de diseño y análisis de requerimientos para traducir problemas complejos en soluciones de software limpias.
-*   📊 Diseñando flujos de datos eficientes y pipelines ETL utilizando bases de datos relacionales `image_ccb6e1.png`.
-
----
-
-### 📈 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManuelVeronese&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub de Manuel" />
-</p>
-
----
-
 <p align="center">
   <i>"El software es una combinación de arte, ingeniería y datos."</i>
 </p>
